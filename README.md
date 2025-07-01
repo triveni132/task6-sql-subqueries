@@ -24,4 +24,4 @@ To practice and demonstrate the use of *subqueries* and *nested queries* in SQL 
 
 | File Name        | Description                            |
 |------------------|----------------------------------------|
-| subqueries.sql | Contains all SQL queries with comments |
+| task6.sql | Contains all SQL queries with comments |
